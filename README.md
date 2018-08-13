@@ -18,7 +18,7 @@ C6                       | X5R-G0603 10/6  |   1    | -
 C1, C2, C3, C8           | X7R-G0603 100N  |   4    | -
 R1                       | RND 0603 1 10K  |   1    | -
 U1                       | ATMEGA 328P-AU  |   1    | -
-Verbinder zu U2          | BL 1X20G 2,54   |   1    | optional
+Verbinder zu U2          | SL 1X20G 2,00   |   1    | optional
 Verbinder zu U2          | MPE 156-1-032   |   1    | optional
 
 
