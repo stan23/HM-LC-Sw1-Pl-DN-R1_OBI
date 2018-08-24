@@ -50,3 +50,12 @@ Aus der Arduino IDE, für ATmega328P, 3,3 V, 8 MHz
 ### Firmware
 
 https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-LC-Sw1-Pl-DN-R1_OBI
+
+
+## Bilder
+
+![Funkmodul](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111519.jpg)
+![ATmega](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111551.jpg)
+![ATmega](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111911.jpg)
+![ATmega](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111933.jpg)
+![ATmega](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_112826.jpg)
