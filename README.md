@@ -43,14 +43,19 @@ Ext:  0xFF
 High: 0xD2
 Low:  0xE2
 
+`C:\Program Files (x86)\Arduino\hardware\tools\avr\bin> .\avrdude -C ..\etc\avrdude.conf -p m328p -P com7 -c stk500v2 -U lfuse:w:0xE2:m -U hfuse:w:0xD2:m -U efuse:w:0xFF:m`
+
 ### Bootloader
 
-Aus der Arduino IDE, für ATmega328P, 3,3 V, 8 MHz
+Aus der Arduino IDE, für ATmega328P (3,3 V, 8 MHz):
 
+`C:\Program Files (x86)\Arduino\hardware\tools\avr\bin> .\avrdude -C ..\etc\avrdude.conf -p m328p -P com7 -c stk500v2 -U flash:w:..\..\..\arduino\avr\bootloaders\atmega\ATmegaBOOT_168_atmega328_pro_8MHz.hex`
 
 ### Firmware
 
 https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-LC-Sw1-Pl-DN-R1_OBI
+
+Benötigt wird die AskSinPP aus dem master-Branch, der V3-Branch ist zu alt.
 
 
 # Bauanleitung
