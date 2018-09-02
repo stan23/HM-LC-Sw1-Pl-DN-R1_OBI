@@ -1,3 +1,9 @@
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+
 # HM-LC-Sw1-Pl-DN-R1_OBI
 Umbau [OBI-Wifi-Stecker](https://www.obi.de/hausfunksteuerung/wifi-stecker-schuko/p/2291706) zu HM-LC-Sw1-Pl-DN-R1_OBI
 
