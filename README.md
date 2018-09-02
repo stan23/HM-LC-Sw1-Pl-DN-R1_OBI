@@ -1,10 +1,5 @@
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+# HM-LC-Sw1-Pl-DN-R1_OBI     [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)     [![GitHub issues](https://img.shields.io/github/issues/stan23/HM-LC-Sw1-Pl-DN-R1_OBI.svg)](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/issues)
 
-Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-
-# HM-LC-Sw1-Pl-DN-R1_OBI
 Umbau [OBI-Wifi-Stecker](https://www.obi.de/hausfunksteuerung/wifi-stecker-schuko/p/2291706) zu HM-LC-Sw1-Pl-DN-R1_OBI
 
 Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP),  [Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und micha68.
@@ -112,3 +107,8 @@ Nach dem Zusammenbau kann der Anlernvorgang durch langes Drücken der einzigen T
 ![eingelötet](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111911.jpg)
 ![eingelötet](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_111933.jpg)
 ![fertig](https://github.com/stan23/HM-LC-Sw1-Pl-DN-R1_OBI/blob/master/Bilder/IMG_20180824_112826.jpg)
+
+
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
